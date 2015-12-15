@@ -1,4 +1,5 @@
 ### Python recipes
+
 My Python code recipes from http://code.activestate.com/recipes/users/4068698/
 MIT License.
 
@@ -11,3 +12,10 @@ sha_512_interal_state.py
 http://code.activestate.com/recipes/578393-gae-matplotlib-demo/
 
 gae_matplotlib_demo.py
+
+###### Peek at Python value stack
+
+http://code.activestate.com/recipes/578412-peek-at-python-value-stack/
+value_stack.py
+
+###### xx
