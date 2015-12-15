@@ -26,3 +26,19 @@ ndb_server.py
 ###### Monkey-patch execnet with more ssh settings...
 http://code.activestate.com/recipes/577545-monkey-patch-execnet-with-more-ssh-settings-port-i/  
 execnet_ssh.py
+
+###### Simple BER decoding in python
+http://code.activestate.com/recipes/577244-simple-ber-decoding-in-python/  
+ber.py
+
+###### Unset engine in gtkrc; unset widget style in gtk
+http://code.activestate.com/recipes/576840-unset-engine-in-gtkrc-unset-widget-style-in-gtk/  
+gtk_unset.py
+
+###### Interrogating linux /dev/usb/hiddev0 in python
+http://code.activestate.com/recipes/576834-interrogating-linux-devusbhiddev0-in-python/  
+hiddev.py
+
+###### Shrink pygtk window
+http://code.activestate.com/recipes/523049-shrink-pygtk-window/  
+gtk_shrink.py
