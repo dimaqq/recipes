@@ -1,5 +1,4 @@
 ### Python recipes
-
 My Python code recipes from http://code.activestate.com/recipes/users/4068698/  
 MIT License.
 
@@ -19,3 +18,11 @@ value_stack.py
 ###### Linux ioctl numbers in Python
 http://code.activestate.com/recipes/578225-linux-ioctl-numbers-in-python/  
 ioctl.py
+
+###### NBD server in python
+http://code.activestate.com/recipes/577569-nbd-server-in-python/  
+ndb_server.py
+
+###### Monkey-patch execnet with more ssh settings...
+http://code.activestate.com/recipes/577545-monkey-patch-execnet-with-more-ssh-settings-port-i/  
+execnet_ssh.py
