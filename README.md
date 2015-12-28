@@ -21,7 +21,7 @@ ioctl.py
 
 ###### NBD server in python
 http://code.activestate.com/recipes/577569-nbd-server-in-python/  
-ndb_server.py
+nbd_server.py
 
 ###### Monkey-patch execnet with more ssh settings...
 http://code.activestate.com/recipes/577545-monkey-patch-execnet-with-more-ssh-settings-port-i/  
